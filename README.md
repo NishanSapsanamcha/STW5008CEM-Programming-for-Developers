@@ -17,7 +17,7 @@ All tasks will execute sequentially and print output to the console.
 
 - All algorithms are implemented with accompanying comments explaining design choices and complexity.
 - Concurrency examples demonstrate non-synchronous execution using Java threads.
-- This repository should be reviewed alongside the submitted PDF/Word document, which contains explanations and references to this code.
+- For Q5 Weather App GUI, you must use your own openweather API key.
 
 ---
 
